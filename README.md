@@ -1,10 +1,10 @@
 # Hacker101 CTF
 
-## 0x00 Overview
+## Overview
 
 [Hacker101 CTF][1] is part of HackerOne free online training program. Really a good place to apply all the pen test skills for beginners.
 
-## 0x01 CTF
+## CTFs
 
 | Difficulty (Points) |	Name                                              | Skills       | Completion |
 | ------------------- | ------------------------------------------------- | ------------ | ---------- |
