@@ -1,5 +1,4 @@
 # A little something to get you started
-=======================================
 
 ## [Flag0](./flag0) -- Found
 
