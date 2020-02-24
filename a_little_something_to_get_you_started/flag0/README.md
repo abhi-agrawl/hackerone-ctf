@@ -1,5 +1,5 @@
 # A little something to get you started - FLAG0
-=================================================
+
 
 ## Step 1 : Inspect Element
 
