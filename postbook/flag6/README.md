@@ -10,7 +10,7 @@ Derypt using [CMD5](https://www.cmd5.com/)
 id: c81e728d9d4c2f636f067f89cc14862c
 ```
 
-![](./images/inspect.JPG)
+![](./images/inspect.png)
 
 ## Step 2 : Decrypt 
 
@@ -26,4 +26,4 @@ Change id to the new one,
 
 http://xxx/xxx/index.php?page=delete.php&id=c4ca4238a0b923820dcc509a6f75849b
 
-![](./images/flag.JPG)
+![](./images/flag.png)
