@@ -20,10 +20,10 @@
 
 - You can edit your own posts, what about someone else's?
 
-## [Flag5](./flag5) -- Not Found
+## [Flag5](./flag5) -- Found
 
 - The cookie allows you to stay signed in. Can you figure out how they work so you can sign in to user with ID 1?
 
-## [Flag6](./flag6) -- Not Found
+## [Flag6](./flag6) -- Found
 
 - Deleting a post seems to take an ID that is not a number. Can you figure out what it is?

@@ -12,7 +12,7 @@
 | Hard (9 / flag)     | Encrypted Pastebin                                | Web, Crypto  | 0 / 4      |
 | Moderate (6 / flag) | Photo Gallery                                     | Web          | 0 / 3      |
 | Moderate (5 / flag) | Cody's First Blog                                 | Web          | 0 / 3      |
-| Easy (4 / flag)     | [Postbook][3]                                     | Web          | 5 / 7      |
+| Easy (4 / flag)     | [Postbook][3]                                     | Web          | 7 / 7      |
 | Moderate (0 / flag) | Ticketastic: Demo Instance                        | Web          | 0 / 0      |
 | Moderate (5 / flag) | Ticketastic: Live Instance                        | Web          | 0 / 2      |
 | Easy (3 / flag)     | Petshop Pro                                       | Web          | 0 / 3      |
